@@ -141,6 +141,31 @@ header ul li a {
     margin-right: 10px;
 }
 
+#skills {
+    text-align: center;
+    margin: 2em 0;
+    padding: 1em 0;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+.skills-list {
+    list-style: none;
+    padding: 0;
+    margin: 1em auto;
+    max-width: 800px;
+}
+
+.skills-list li {
+    font-size: 1.1em;
+    margin: 0.5em 0;
+    text-align: left;
+}
+
+.skills-list li strong {
+    color: #333;
+    font-weight: bold;
+}
 
 .education-list {
     list-style: none;
